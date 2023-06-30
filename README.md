@@ -1,8 +1,8 @@
-# Railway Management System App - Passenger
+# **TrainJourney App: Convenient and Efficient Train Travel Companion**
 
 ![App Logo](https://example.com/app-logo.png)
 
-The Railway Management System App - Passenger is a comprehensive railway application designed to enhance the travel experience for passengers. This app provides a range of features and functionalities to make train journeys more convenient and efficient. Whether you want to check train schedules, track live train locations, reserve tickets, or stay updated on delays and cancellations, this app has got you covered. Built using Flutter, Firebase, and Google Maps API, the Railway Management System App - Passenger offers a seamless and intuitive user interface for an enhanced user experience.
+TrainJourney is a comprehensive mobile application designed to enhance your train travel experience. This app leverages the power of Flutter, Firebase, and the Google Maps API to provide a range of features and functionalities that make train journeys more convenient and efficient. From checking train schedules and tracking live train locations to reserving tickets and staying updated on delays and cancellations, TrainJourney is your go-to companion for seamless travel.
 
 ## Features
 
