@@ -1,4 +1,4 @@
-# **TrainJourney App: Convenient and Efficient Train Travel Companion**
+# **TrainJourney: Convenient and Efficient Train Travel Companion**
 
 ![App Logo](https://example.com/app-logo.png)
 
