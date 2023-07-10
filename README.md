@@ -1,6 +1,6 @@
 # **TrainJourney: Convenient and Efficient Train Travel Companion**
 
-![App Logo](https://example.com/app-logo.png)
+![Cover Photo](assets/screenshots/Header.png)
 
 TrainJourney is a comprehensive mobile application designed to enhance your train travel experience. This app leverages the power of Flutter, Firebase, and the Google Maps API to provide a range of features and functionalities that make train journeys more convenient and efficient. From checking train schedules and tracking live train locations to reserving tickets and staying updated on delays and cancellations, TrainJourney is your go-to companion for seamless travel.
 
@@ -51,9 +51,50 @@ flutter run
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot-1.png)
-![Screenshot 2](https://example.com/screenshot-2.png)
-![Screenshot 3](https://example.com/screenshot-3.png)
+<table>
+  <tr>
+    <td>
+      <img src="assets/screenshots/Screenshot-1.png" alt="Screenshot 1">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-2.png" alt="Screenshot 2">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-3.png" alt="Screenshot 3">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-4.png" alt="Screenshot 4">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/screenshots/Screenshot-5.png" alt="Screenshot 5">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-6.png" alt="Screenshot 6">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-7.png" alt="Screenshot 7">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-8.png" alt="Screenshot 8">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/screenshots/Screenshot-9.png" alt="Screenshot 9">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-10.png" alt="Screenshot 10">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-11.png" alt="Screenshot 11">
+    </td>
+    <td>
+      <img src="assets/screenshots/Screenshot-12.png" alt="Screenshot 12">
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 
