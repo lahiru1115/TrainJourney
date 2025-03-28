@@ -1,4 +1,4 @@
-# **TrainJourney: Convenient and Efficient Train Travel Companion**
+# **TrainJourney: Convenient Train Travel Companion**
 
 ![Cover Photo](assets/screenshots/Header.png)
 
