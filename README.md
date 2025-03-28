@@ -1,6 +1,6 @@
 # **TrainJourney: Convenient Train Travel Companion**
 
-![Cover Photo](assets/screenshots/Header.png)
+![Cover Photo](assets/screenshots/Cover.png)
 
 TrainJourney is a mobile application designed to enhance your train travel experience. This app leverages the power of Flutter, Firebase, and the Google Maps API to provide a range of features and functionalities that make train journeys more convenient and efficient. From checking train schedules and tracking live train locations to reserving tickets and staying updated on delays and cancellations, TrainJourney is your go-to companion for seamless travel.
 
